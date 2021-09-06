@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Cortés</h1>
-<h3 align="center">A creative frontend developer from Colombia 🇨🇴</h3>
+<h3 align="center">A visionary frontend developer from Colombia 🇨🇴</h3>
 
 I like to solve problems related to user centered design and consumer psychology.
 
