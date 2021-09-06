@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Miguel Cortés</h1>
 <h3 align="center">A creative frontend developer from Colombia 🇨🇴</h3>
 
+I like to solve problems related to user centered design and consumer psychology.
+
 - 🌱 I’m currently learning **HTML, CSS**
 
 <h3 align="left">Connect with me:</h3>
