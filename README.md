@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Cortés</h1>
-<h3 align="center">A visionary fullstack developer from Colombia</h3>
+<h3 align="center">A visionary frontend developer from Colombia</h3>
 
-I like to solve problems related to fullstack solutions.
+I like to solve problems related to UI/U, in other words, user interaction.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
