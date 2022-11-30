@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miguel Cortés</h1>
+<h1 align="center">Hi 👋, I'm Miguel Cortes</h1>
 <h3 align="center">A self-taught frontend developer from Colombia</h3>
 
 I am a self-taught Frontend developer from Colombia with a passion for design and writing.
