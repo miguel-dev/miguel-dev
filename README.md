@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Cortés</h1>
 <h3 align="center">A visionary frontend developer from Colombia</h3>
 
-I like to solve problems related to UI/U, in other words, user interaction.
+I am a self-taught Frontend developer from Colombia with a passion for design and writing.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
