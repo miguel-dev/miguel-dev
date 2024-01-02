@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Cortes</h1>
-<h3 align="center">A self-taught fullstack developer from Colombia</h3>
+<h3 align="center">A self-taught fullstack developer</h3>
 
 I am a self-taught fullstack developer.
 
